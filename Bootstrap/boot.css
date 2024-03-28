@@ -1,0 +1,157 @@
+.logo {
+    color: red;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+*{
+  scroll-behavior: smooth;
+}
+  #c {
+    color: beige;
+  }
+
+  .main-content{
+    padding:30px 60px;
+  }
+
+  #js-head{
+    border-bottom: 2px solid silver;
+    margin-top: 50px;
+    text-align: center;
+    color: red;
+    font-weight:900;
+    line-height: normal;
+    margin-bottom: 30px;
+  }
+
+ 
+  #iframe{
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-top: -5px;
+  }
+
+  #heading{ 
+    padding: 30px 100px;
+    font-size: large;
+    font-weight: 600;
+    background-color: rgba(192, 192, 192, 0.315);
+  }
+
+  #j1{
+    float: right;
+    /* padding: 30px 100px; */
+    margin-bottom: 30px;
+  }
+
+#btn1{
+  position: relative;
+  bottom: 20px;
+  font-size: 18px;
+  width: 550px;
+  height: 37px;
+}
+
+#btn1 svg{
+  margin-bottom: 4px;
+  margin-right: 5px;
+}
+#video{
+  margin-bottom: -20px;
+  text-align: center;
+  color:blueviolet;
+  background-color: black;
+  font-weight: 700;
+  font-family: initial;
+  text-shadow: 1px 1px 0px black;
+
+}
+
+#website{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color:blueviolet;
+  background-color: black;
+  text-align: center;
+  font-weight: 600;
+  font-family: initial;
+  text-shadow: 1px 1px 0px black;
+
+}
+
+#websitess{
+  margin-top: 40px;
+  color:rgb(38, 215, 38);
+  font-weight: 700;;
+}
+
+#btn2{
+  width: 200px;
+  height: 37px;
+  font-weight: 600;
+  background-color: blue;
+}
+
+#btn2 svg{
+  margin-bottom: 2px;
+  margin-right: 5px;
+}
+
+#btn2 a {
+  color: white;
+}
+
+#pwebsitess{
+  margin-top: 40px;
+  color:crimson;
+  font-weight: 700;;
+}
+
+#btn3{
+  width: 200px;
+  height: 37px;
+  font-weight: 600;
+  background-color: rgba(255, 255, 0, 0.571);
+}
+
+#btn3 svg{
+  margin-bottom: 2px;
+  margin-right: 5px;
+}
+
+#btn3 a {
+  color: black;
+}
+
+.javascript{
+  padding: 20px 50px;
+  background-color: black;
+  color: white;
+}
+
+.web-container{
+  margin-top: 50px;
+  display: flex;
+  background-color: rgba(211, 211, 211, 0.443);
+  padding: 0px 30px;
+  padding-bottom: 20px;
+  
+}
+
+.v1{
+  background-color: rgba(211, 211, 211, 0.443);
+  height: 340px;
+  padding:22px 31px;
+}
+
+.w1{
+  width: 50%;
+  text-align: center;
+  
+}
+
+.w2{
+  width: 50%;
+  margin-left: 100px;
+  text-align: center;
+}
